@@ -5,7 +5,7 @@ Interested in contributing to improving people's health through innovative appro
 ## **Projects**
 ### *Digital calculator for cardiovascular disease risk*
 - Tech: Rshinny
-- Repo: https://github.com/Bibs-L/Project_Clinical_Decision_Support
+- Repo: https://github.com/Bibs-L/DigitalCalculator_CardiovascularDiseaseRisk
 
 ## **Languages**
 - Portuguese - Native

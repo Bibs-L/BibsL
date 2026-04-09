@@ -3,6 +3,7 @@
 Interested in contributing to improving people's health through innovative approaches, with a particular interest in preventative care. Throughout my academic and sports career, in combination with my experience in students’ organisations, I have developed resilience, critical thinking skills and the ability to work as part of a team.
 
 **Projects**
+
 **Languages**
 Portuguese - Native
 English - C1

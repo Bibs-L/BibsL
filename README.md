@@ -5,9 +5,9 @@ Interested in contributing to improving people's health through innovative appro
 **Projects**
 
 **Languages**
-Portuguese - Native
-English - C1
-Spanish - A2
+- Portuguese - Native
+- English - C1
+- Spanish - A2
 
 **Hard Skills**
 1. Excel, Word, PowerPoint

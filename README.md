@@ -3,9 +3,9 @@
 Interested in contributing to improving people's health through innovative approaches, with a particular interest in preventative care. Throughout my academic and sports career, in combination with my experience in students’ organisations, I have developed resilience, critical thinking skills and the ability to work as part of a team.
 
 ## **Projects**
-### - *Digital calculator for cardiovascular disease risk*
-Tech: Rshinny
-Repo: https://github.com/Bibs-L/Project_Clinical_Decision_Support
+### *Digital calculator for cardiovascular disease risk*
+- Tech: Rshinny
+- Repo: https://github.com/Bibs-L/Project_Clinical_Decision_Support
 
 ## **Languages**
 - Portuguese - Native

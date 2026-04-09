@@ -1,15 +1,18 @@
-**Beatriz L. || *MSc Student of Clinical Bioinformatics***
+# **Beatriz L. || *MSc Student of Clinical Bioinformatics***
 
 Interested in contributing to improving people's health through innovative approaches, with a particular interest in preventative care. Throughout my academic and sports career, in combination with my experience in students’ organisations, I have developed resilience, critical thinking skills and the ability to work as part of a team.
 
-**Projects**
+## **Projects**
+### - *Digital calculator for cardiovascular disease risk*
+Tech: Rshinny
+Repo: https://github.com/Bibs-L/Project_Clinical_Decision_Support
 
-**Languages**
+## **Languages**
 - Portuguese - Native
 - English - C1
 - Spanish - A2
 
-**Hard Skills**
+## **Hard Skills**
 1. Excel, Word, PowerPoint
 2. Python, R, SQL
 3. Research and Data Analysis
@@ -17,7 +20,7 @@ Interested in contributing to improving people's health through innovative appro
 5. Power BI
 6. Machine Learning Algorithms
 
-**Soft Skills**
+## **Soft Skills**
 1. Quick learning
 2. Teamwork
 3. Leadership

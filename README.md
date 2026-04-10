@@ -7,6 +7,10 @@ Interested in contributing to improving people's health through innovative appro
 - Tech: Rshinny
 - Repo: https://github.com/Bibs-L/DigitalCalculator_CardiovascularDiseaseRisk
 
+### *Data Analysis - Predicting Diabetes Using Logistic Regression*
+- Tech: R Markdown
+- Repo: https://github.com/Bibs-L/DataAnalysis_PredictingDiabetes_Logistic_Regression
+
 ## **Languages**
 - Portuguese - Native
 - English - C1

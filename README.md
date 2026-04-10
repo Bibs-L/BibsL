@@ -11,6 +11,12 @@ Interested in contributing to improving people's health through innovative appro
 - Tech: R Markdown
 - Repo: https://github.com/Bibs-L/DataAnalysis_PredictingDiabetes_Logistic_Regression
 
+### *Exploratory Data Analysis and R fundamentals to study associated factors to Obesity*
+- Tech: R
+- Repo: https://github.com/Bibs-L/EDA_and_Rfundamentals_Obesity
+
+### more projects loading....
+
 ## **Languages**
 - Portuguese - Native
 - English - C1
